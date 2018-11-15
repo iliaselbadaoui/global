@@ -1,0 +1,6 @@
+C:\Users\IE\source\repos\Global\Global\bin\Debug\Global.dll
+C:\Users\IE\source\repos\Global\Global\bin\Debug\Global.pdb
+C:\Users\IE\source\repos\Global\Global\obj\Debug\Global.csprojAssemblyReference.cache
+C:\Users\IE\source\repos\Global\Global\obj\Debug\Global.csproj.CoreCompileInputs.cache
+C:\Users\IE\source\repos\Global\Global\obj\Debug\Global.dll
+C:\Users\IE\source\repos\Global\Global\obj\Debug\Global.pdb
